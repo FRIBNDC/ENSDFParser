@@ -1,4 +1,4 @@
-
+A Java library to parse all data in ENSDF datasets into ENSDF objects that can be called to retrieve any data in the datasets.
 
 A usage example:
 
