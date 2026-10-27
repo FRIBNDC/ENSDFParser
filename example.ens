@@ -1,0 +1,135 @@
+ 90KR    ADOPTED LEVELS, GAMMAS                                  97NDS    199801
+ 90KR  H TYP=FUL$AUT=E. BROWNE$CIT=NDS 82, 379 (1997)$CUT=1-May-1997$           
+ 90KR  Q 4405      7 6495    3 13974   4 -6881   4     2012WA38                 
+ 90KR cQ $Note: Current evaluation has used the following Q record              
+ 90KR  Q 4392      17 6310   55 13682  63              1995AU04                 
+ 90KR  XA90BR B- DECAY                                                          
+ 90KR cL E$From least-squares fit to adopted |g-ray data.                       
+ 90KR cG E$From {+90}Br |b{+-} decay.                                           
+ 90KR cG RI$Relative photon branching ratio from measured I|g in {+90}Br |b{+-} 
+ 90KR2cG decay.                                                                 
+ 90KR  L 0           0+                32.32 S   9                              
+ 90KRX L XREF=A                                                                 
+ 90KR2 L %B-=100                                                                
+ 90KR cL T$From |g(t) with mass separation and Ge(Li) (1969Ca03).               
+ 90KR cL ${ |D<r{+2}>} ({+89}Kr,{+90}Kr)=0.116 fm{+2} {I11} (1996Li25); {       
+ 90KR2cL |D<r{+2}>} ({+86}Kr,{+90}Kr)=0.5 fm{+2} {I1} (1995Ke04). Others:       
+ 90KR3cL 1992Li24, 1992Ne09.                                                    
+ 90KR  L 707.13    5 (2+)                                                       
+ 90KRX L XREF=A                                                                 
+ 90KR cL J$systematics of J{+|p} for first excited state of even-even nuclei in 
+ 90KR2cL this region.                                                           
+ 90KR  G 707.05    6 100                                                        
+ 90KR  L 1362.25   6                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 655.17    6  68     4                                                  
+ 90KR  G 1362.32   10 100    8                                                  
+ 90KR  L 1830.50   16                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1123.37   15 100                                                       
+ 90KR  L 1940.33   8                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 578.06    18 14.5   17                                                 
+ 90KR  G 1233.21   8  100    4                                                  
+ 90KR  L 2103.13   9                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 740.82    8  100    6                                                  
+ 90KR  G 1396.16   13 33     3                                                  
+ 90KR  L 2147.81   10                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 786.02    12 100    8                                                  
+ 90KR  G 1440.21   12 20.2   19                                                 
+ 90KR  L 2193.1    4                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1486.0    4  100                                                       
+ 90KR  L 2249.34   14                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1542.20   13 100                                                       
+ 90KR  L 2318.09   8                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 955.84    8  98     5                                                  
+ 90KR  G 1610.80   11 100    5                                                  
+ 90KR  G 2318.6    2  47     4                                                  
+ 90KR  L 2536.05   21                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1828.90   20 100                                                       
+ 90KR  L 2543.70   10                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1836.49   10 100    6                                                  
+ 90KR  G 2543.93   20 20     3                                                  
+ 90KR  L 2595.94   14                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1888.79   13 100                                                       
+ 90KR  L 2685.83   14                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1323.57   12 100                                                       
+ 90KR  L 2687.31   13                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 539.50    8  100                                                       
+ 90KR  L 2730.76   17                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2024.1    3  26     4                                                  
+ 90KR  G 2730.5    2  100    7                                                  
+ 90KR  L 2747.94   15                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2040.79   14 100                                                       
+ 90KR  L 2780.60   10                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 840.29    10 100    8                                                  
+ 90KR  G 1418.34   11 84     8                                                  
+ 90KR  G 2073.0    5  16     4                                                  
+ 90KR  L 2828.26   22                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1465.9    3  98     12                                                 
+ 90KR  G 2121.2    3  100    11                                                 
+ 90KR  L 2864.15   20                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2864.1    2  100                                                       
+ 90KR  L 2987.31   12                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1625.11   13 100    7                                                  
+ 90KR  G 2987.1    2  66     5                                                  
+ 90KR  L 3140.25   16                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2433.09   15 100                                                       
+ 90KR  L 3231.44   18                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 913.38    20 7.6    10                                                 
+ 90KR  G 3231.3    3  100    10                                                 
+ 90KR  L 3285.10   17                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 1344.76   15 100                                                       
+ 90KR  L 3318.4    3                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 3318.5    3  100                                                       
+ 90KR  L 3372.6    3                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2665.4    3  100                                                       
+ 90KR  L 3508.2    3                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2801.0    3  100                                                       
+ 90KR  L 4291.0    3                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 4290.9    3  100                                                       
+ 90KR  L 4546.6    5                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2002.9    5  100                                                       
+ 90KR  L 4785.78   22                                                           
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2682.6    2  100                                                       
+ 90KR  L 5004.4    3                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 4297.2    3  100                                                       
+ 90KR  L 5080.0    5                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 4372.8    5  100                                                       
+ 90KR  L 5385.4    6                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 4023.1    6  100                                                       
+ 90KR  L 5683.3    5                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 4320.9    5  100                                                       
+ 90KR  L 5730.1    4                                                            
+ 90KRX L XREF=A                                                                 
+ 90KR  G 2411.83   30 71     12                                                 
+ 90KR  G 4367.3    5  100    13                                                 
