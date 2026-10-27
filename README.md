@@ -14,9 +14,8 @@ public class TestParser {
 	   public static void main(String[] args) throws IOException, Exception {
 			Translator.init();
 			
-	        String filePath="example.ens";
-	        
-		    File f=new File(filePath);//
+	        String filePath="example.ens";	        
+		    File f=new File(filePath);
 		    ENSDF ens=new ENSDF();
 		    ens.setValues(Str.readFile(f));
 
