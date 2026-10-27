@@ -12,7 +12,8 @@ import ensdfparser.nds.util.Str;
 
 public class TestParser {
 	   public static void main(String[] args) throws IOException, Exception {
-			Translator.init();
+            //initialize ENSDF translation dictionary
+            Translator.init();
 			
 	        String filePath="example.ens";	        
 		    File f=new File(filePath);
@@ -23,7 +24,7 @@ public class TestParser {
 		    	Level l=ens.levelAt(i);        	
 		    	System.out.println(l.ES());
 		    }
-		   }
+       }
 }
 ```
 See attached Example.java file for more details.
